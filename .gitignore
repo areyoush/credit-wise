@@ -1,0 +1,56 @@
+# Virtual environment
+.venv/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Data folders (keep structure via .gitkeep if desired)
+data/
+# models/ (same: add .gitkeep if you want the empty folder)
+models/
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# Temporary files
+tmp/
+temp/
+
+# Misc
+*.sqlite3

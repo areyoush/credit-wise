@@ -37,10 +37,7 @@ desktop.ini
 *.log
 logs/
 
-# Data folders (keep structure via .gitkeep if desired)
-data/
-# models/ (same: add .gitkeep if you want the empty folder)
-models/
+
 
 # Model artifacts
 *.pkl

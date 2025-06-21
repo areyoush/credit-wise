@@ -1,6 +1,6 @@
 This folder contains input datasets used to train the ML Model.
 
-This project uses the German Credit Data from the UCI ML Repository.
+This project uses the German Credit Data (non-numeric) from the UCI ML Repository.
 
 ## Contents
 

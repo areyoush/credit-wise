@@ -40,7 +40,6 @@ logs/
 
 
 # Model artifacts
-*.pkl
 *.joblib
 *.h5
 *.pt
